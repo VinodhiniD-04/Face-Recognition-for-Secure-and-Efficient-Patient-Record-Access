@@ -7,10 +7,10 @@ Face recognition technology offers a modern solution to enhance hospital securit
 
 ## Key Features
 
-*Utilizes Python, HTML, CSS, JavaScript, and machine learning for face recognition.
-*Enhances patient identification accuracy and reduces the risk of medical errors.
-*Creates a database of patient facial images linked to medical records.
-*Streamlines patient check-in and bolsters data security.
+* Utilizes Python, HTML, CSS, JavaScript, and machine learning for face recognition.
+* Enhances patient identification accuracy and reduces the risk of medical errors.
+* Creates a database of patient facial images linked to medical records.
+* Streamlines patient check-in and bolsters data security.
 
 ## Requirements Hardware 
 * RequirementsComputer/Server: Intel Core i5 or higher, 8 GB RAM
