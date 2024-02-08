@@ -25,7 +25,6 @@ Face recognition technology offers a modern solution to enhance hospital securit
   
 ## Installation
 
-* Clone the repository to your local machine.
 * Install the necessary dependencies using Anaconda Prompt.
 * Set up the database using SQLite.
 * Run the project using Visual Studio Code.
