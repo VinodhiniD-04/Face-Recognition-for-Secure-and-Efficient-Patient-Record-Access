@@ -2,10 +2,12 @@
 ![image](https://github.com/VinodhiniD-04/Face-Recognition-for-Secure-and-Efficient-Patient-Record-Access/assets/135093669/0b815548-a5b4-48b4-a984-901e38cec630)
 
 ## Overview
+_________________________________________________________________________________________________
 
 Face recognition technology offers a modern solution to enhance hospital security and efficiency in healthcare settings. This project aims to implement a secure face recognition system for quick and accurate access to patient records. By capturing and analyzing unique facial features, healthcare facilities can create a database of patient facial images linked directly to medical records. This enables instant facial scans and record cross-referencing, bolstered by a user-friendly interface for streamlined access by healthcare staff.
 
 ## Key Features
+_________________________________________________________________________________________________
 
 * Utilizes Python, HTML, CSS, JavaScript, and machine learning for face recognition.
 * Enhances patient identification accuracy and reduces the risk of medical errors.
@@ -13,17 +15,21 @@ Face recognition technology offers a modern solution to enhance hospital securit
 * Streamlines patient check-in and bolsters data security.
 
 ## Requirements Hardware 
+_________________________________________________________________________________________________
+
 * RequirementsComputer/Server: Intel Core i5 or higher, 8 GB RAM
 * Webcam
 * Internet connection
 
 ## Software Requirements
+_________________________________________________________________________________________________
 
 * Operating System: Windows
 * Programming Languages: HTML, CSS, JavaScript, Python, SQLite (Database)
 * Integrated Development Environment: Anaconda Prompt, Visual Studio Code, SQLite
   
 ## Installation
+_________________________________________________________________________________________________
 
 * Install the necessary dependencies using Anaconda Prompt.
 * Set up the database using SQLite.
